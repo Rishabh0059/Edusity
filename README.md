@@ -24,7 +24,7 @@ Edusity is a modern university website that provides detailed information about 
   3️⃣ Start the Application
     - npm start
 
-  The app will be available at http://localhost:3000.
+  The app will be available at https://rishabh0059.github.io/Edusity/
 
   📸 Screenshots
   <img width="947" alt="edu1" src="https://github.com/user-attachments/assets/90221e67-d757-49fe-9257-6ac4a3b2b896" />
